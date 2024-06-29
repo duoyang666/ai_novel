@@ -20,5 +20,3 @@
 # 文本向量化
 - vector
 - vector/m3e 本地向量化模型
-
-### 模型从Releases下载
