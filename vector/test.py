@@ -1,6 +1,8 @@
 # 文本文件向量化
 # 实验文本向量化的速度
 
+from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.vectorstores import Chroma
 import time
 import os
 
@@ -11,9 +13,6 @@ def chroma_vector_add(file_path, dir, c_name="vectordb", model_name="./m3e"):
     """
     model_kwargs = {'device': 'cpu'}
     # encode_kwargs = {'normalize_embeddings': False}
-
-    from langchain.vectorstores import Chroma
-    from langchain.embeddings import HuggingFaceEmbeddings
     embeddings_hf = HuggingFaceEmbeddings(
         model_name=model_name, model_kwargs=model_kwargs)
     if (not os.path.exists(dir)):
@@ -68,3 +67,14 @@ chroma_vector_add("vector/862KB.txt", "vector/862KB",
 # 2.65MB 量化时间：664.8874490261078 秒,11 分钟。
 chroma_vector_add("vector/射雕英雄传.txt", "vector/2.65MB",
                   model_name="D:\code\python\model\m3e")
+
+
+# 实验搜索
+embeddings_hf = HuggingFaceEmbeddings(model_name="D:\code\python\model\m3e")
+vectordb_load = Chroma(
+    persist_directory="vector/215KB",
+    embedding_function=embeddings_hf,
+    collection_name="vectordb"
+)
+docs = vectordb_load.similarity_search("打起来了")
+print(docs)
