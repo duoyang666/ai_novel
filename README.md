@@ -20,3 +20,4 @@
 # 文本向量化
 - vector
 - vector/m3e 本地向量化模型
+- https://www.123pan.com/s/j6nRVv-5Bg7H.html 提取码:fydy
