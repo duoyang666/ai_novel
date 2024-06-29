@@ -322,7 +322,7 @@ two = [
     # """重复分析上次的提问。""",
 ]
 
-files = get_files('./dataChai')
+files = get_files('dataChai')
 for file_path in files:
     file_size = os.path.getsize(file_path)
     if file_size > 1024*1024*30:

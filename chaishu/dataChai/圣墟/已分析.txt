@@ -1,2 +1,5 @@
 
 dataChai\data\圣墟\第0001章沙漠中的彼岸花.txt
+dataChai\data\圣墟\第0002章后文明时代.txt
+dataChai\data\圣墟\第0003章青铜昆仑.txt
+dataChai\data\圣墟\第0004章奇树与猛兽.txt
