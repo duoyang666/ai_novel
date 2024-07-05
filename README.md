@@ -21,3 +21,9 @@
 - vector
 - vector/m3e 本地向量化模型
 - https://www.123pan.com/s/j6nRVv-5Bg7H.html 提取码:fydy
+
+# 魔改版OpenWebUi
+- B站：https://space.bilibili.com/353013779/dynamic
+- 微博：https://weibo.com/u/7880548860
+- 公众号：多样分享，可搜索，fyduoyang
+
