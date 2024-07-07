@@ -16,7 +16,6 @@
 - 运行 在当前文件夹打开cmd
 - python test.py
 
-
 # 文本向量化
 - vector
 - vector/m3e 本地向量化模型
@@ -27,6 +26,11 @@
 - openwebui整合包，https://www.123pan.com/s/j6nRVv-gYg7H.html 提取码:fydy
 - 整合包修复教程，https://mp.weixin.qq.com/s/bw9sUJidGsRZEneP9GXhuw
 - 魔改版整合包，https://www.123pan.com/s/j6nRVv-lYg7H.html 提取码:fydy
+
+# 公众号输入关键词，获取最新版下载链接
+- 魔改
+- openwebui
+- env
 
 # 作者信息
 - B站：https://space.bilibili.com/353013779/dynamic
