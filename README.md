@@ -23,7 +23,9 @@
 - https://www.123pan.com/s/j6nRVv-5Bg7H.html 提取码:fydy
 
 # 魔改版OpenWebUi
+- 环境包，https://www.123pan.com/s/j6nRVv-bGg7H.html 提取码:fydy
 - openwebui整合包，https://www.123pan.com/s/j6nRVv-gYg7H.html 提取码:fydy
+- 整合包修复教程，https://mp.weixin.qq.com/s/bw9sUJidGsRZEneP9GXhuw
 - 魔改版整合包，https://www.123pan.com/s/j6nRVv-lYg7H.html 提取码:fydy
 
 # 作者信息
