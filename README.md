@@ -27,6 +27,12 @@
 - 整合包修复教程，https://mp.weixin.qq.com/s/bw9sUJidGsRZEneP9GXhuw
 - 魔改版整合包，https://www.123pan.com/s/j6nRVv-lYg7H.html 提取码:fydy
 
+# 魔改版OpenWebUi 升级日志
+## 2024-07-14
+- 地址，https://mp.weixin.qq.com/s/1_Y9u9rE5p3RD0zFyL0DHg
+- 支持新的代理，OpenAi，阿里百炼，Ollama，百度千帆
+- 修复问题
+
 # 公众号输入关键词，获取最新版下载链接
 - 魔改
 - openwebui
