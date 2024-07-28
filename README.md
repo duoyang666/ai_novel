@@ -12,7 +12,7 @@
 
 ### 使用步骤
 - 安装python
-- 安装依赖库 pip install langchain -i https://mirrors.aliyun.com/pypi/simple
+- 安装依赖库 pip install langchain==0.1.7 -i https://mirrors.aliyun.com/pypi/simple
 - 运行 在当前文件夹打开cmd
 - python test.py
 
