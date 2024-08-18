@@ -27,6 +27,10 @@
 - 整合包修复教程，https://mp.weixin.qq.com/s/bw9sUJidGsRZEneP9GXhuw
 - 魔改版整合包，https://www.123pan.com/s/j6nRVv-lYg7H.html 提取码:fydy
 
+# 魔改版OpenWebUi的修改源码
+- open-webui 文件夹
+- 带中文注释
+
 # 魔改版OpenWebUi 升级日志
 ## 2024-07-14
 - 地址，https://mp.weixin.qq.com/s/1_Y9u9rE5p3RD0zFyL0DHg
