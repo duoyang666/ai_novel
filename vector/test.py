@@ -52,21 +52,21 @@ def chroma_vector_add(file_path, dir, c_name="vectordb", model_name="./m3e"):
     print(f"量化时间：{run_time} 秒,{int(run_time/60)} 分钟。{file_path}")
 
 
-# 215KB 量化时间：50.44206881523132 秒,0 分钟。
-chroma_vector_add("vector/白马啸西风.txt", "vector/215KB",
-                  model_name="D:\code\python\model\m3e")
+# # 215KB 量化时间：50.44206881523132 秒,0 分钟。
+# chroma_vector_add("vector/白马啸西风.txt", "vector/215KB",
+#                   model_name="D:\code\python\model\m3e")
 
-# 431KB 量化时间：92.91256904602051 秒,1 分钟。
-chroma_vector_add("vector/431KB.txt", "vector/431KB",
-                  model_name="D:\code\python\model\m3e")
+# # 431KB 量化时间：92.91256904602051 秒,1 分钟。
+# chroma_vector_add("vector/431KB.txt", "vector/431KB",
+#                   model_name="D:\code\python\model\m3e")
 
-# 862KB 量化时间：186.25255155563354 秒,3 分钟。
-chroma_vector_add("vector/862KB.txt", "vector/862KB",
-                  model_name="D:\code\python\model\m3e")
+# # 862KB 量化时间：186.25255155563354 秒,3 分钟。
+# chroma_vector_add("vector/862KB.txt", "vector/862KB",
+#                   model_name="D:\code\python\model\m3e")
 
-# 2.65MB 量化时间：664.8874490261078 秒,11 分钟。
-chroma_vector_add("vector/射雕英雄传.txt", "vector/2.65MB",
-                  model_name="D:\code\python\model\m3e")
+# # 2.65MB 量化时间：664.8874490261078 秒,11 分钟。
+# chroma_vector_add("vector/射雕英雄传.txt", "vector/2.65MB",
+#                   model_name="D:\code\python\model\m3e")
 
 
 # 实验搜索

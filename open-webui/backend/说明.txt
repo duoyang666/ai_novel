@@ -1,0 +1,44 @@
+python -m venv venv
+
+激活环境
+.\venv\Scripts\activate.bat
+
+导出依赖
+.\venv\Scripts\pip.exe  freeze > requirements.txt 
+
+安装依赖
+.\venv\Scripts\pip.exe install -r requirements.txt
+
+运行
+.\venv\Scripts\python.exe -m  uvicorn main:app --host "%HOST%" --port "%PORT%" --forwarded-allow-ips '*'
+start_windows.bat
+
+.\venv\Scripts\python.exe
+.\venv\Scripts\pip.exe 
+
+
+
+pyinstaller --onefile main.py
+
+pyinstaller  main.py --name openwebui
+
+pyinstaller  --hidden-import="chromadb.telemetry.product.posthog" main.py --name openwebui
+
+pyinstaller -F -p C:\Users\Administrator\.pyenv\pyenv-win\versions\3.11.5\Lib\site-packages main.py --name openwebui
+上面的打包后，运行错误几率太高
+
+
+
+
+pip install cx_Freeze
+
+from cx_Freeze import setup, Executable
+setup(
+    name = "openwebui",
+    version = "0.3.5",
+    description = "openwebui",
+    executables = [Executable("main.py")]
+)
+
+运行 setup.py
+python setup.py build
