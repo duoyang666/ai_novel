@@ -1,6 +1,11 @@
 # 多样智能ai知识库
 - （测试版下载地址，最新版请关注公众号，发送"ai"）
 - https://www.123684.com/s/j6nRVv-yTY7H?提取码:fydy
+- ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
+- ![image](https://github.com/user-attachments/assets/34953a56-da1a-4621-ae56-0f9a46357912)
+- ![image](https://github.com/user-attachments/assets/a2b32a50-ba97-4e13-b158-132240179e99)
+- ![image](https://github.com/user-attachments/assets/1d84b611-5a64-4a41-bbfd-71f5fd79944c)
+
 
 # 多样智能 升级日志
 ## 2024-10-01
