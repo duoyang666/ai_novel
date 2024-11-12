@@ -66,7 +66,7 @@
 - B站：https://space.bilibili.com/353013779/dynamic
 - 微博：https://weibo.com/u/7880548860
 - 公众号：多样分享，可搜索，fyduoyang
-- 公众号扫描
+- 扫描关注公众号
 - ![qrcode_for_gh_3b0757fbd3d1_258](https://github.com/user-attachments/assets/f30e0c4a-1fc6-4125-b9f6-4b1d86161b5a)
 
 
