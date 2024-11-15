@@ -5,6 +5,15 @@
 - ![image](https://github.com/user-attachments/assets/34953a56-da1a-4621-ae56-0f9a46357912)
 - ![image](https://github.com/user-attachments/assets/a2b32a50-ba97-4e13-b158-132240179e99)
 - ![image](https://github.com/user-attachments/assets/1d84b611-5a64-4a41-bbfd-71f5fd79944c)
+- ![image](https://github.com/user-attachments/assets/208c343a-a0a7-4ca3-9fd5-f3fbe5b94ad7)
+- ![image](https://github.com/user-attachments/assets/910d756f-9241-40b7-b3f9-b2e80c44f782)
+- ![image](https://github.com/user-attachments/assets/3b19c078-19c1-4688-afbb-765c23f4facd)
+- ![image](https://github.com/user-attachments/assets/79702b45-f22d-47ce-9058-f2a23bf0bc71)
+- ![image](https://github.com/user-attachments/assets/5b190fab-0eb6-47f1-9180-dd93b02fe43b)
+
+
+
+
 
 
 # 多样智能 升级日志
@@ -17,6 +26,13 @@
 - 支持本地gguf的量化模型
 - 自定义对话历史
 - 保存时经过ai自动生成对话摘要
+- ## 2024-11-16
+- 测试版
+- 添加拆书库
+- 拆书库中，上传txt文件，手动开启解析：名称，标签，备注，行动线，原文描写，少量描写，人物性格画像
+- 拆书库中，可查看拆书图谱，可经过节点查看图谱，可查看节点信息
+- 添加创作库
+- 创作库中，生成人物，获取剧情，生成正文，生成质量受ai影响
 
 # 实验AI
 
