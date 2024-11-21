@@ -1,6 +1,6 @@
 # 多样智能ai知识库（ai写作功能已添加）
 - （测试版下载地址，最新版请关注公众号，发送"ai"）
-- https://www.123684.com/s/j6nRVv-yTY7H?提取码:fydy
+- https://www.123684.com/s/j6nRVv-cPY7H?提取码:fydy
 - ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
 - ![image](https://github.com/user-attachments/assets/34953a56-da1a-4621-ae56-0f9a46357912)
 - ![image](https://github.com/user-attachments/assets/a2b32a50-ba97-4e13-b158-132240179e99)
