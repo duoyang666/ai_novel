@@ -1,5 +1,5 @@
 # 多样智能ai知识库（ai写作功能已添加）
-- （测试版下载地址，最新版请关注公众号，发送"ai"）
+- （测试版下载地址，**最新版请关注公众号，发送"ai"**）
 - https://www.123684.com/s/j6nRVv-cPY7H?提取码:fydy
 - ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
 - ![image](https://github.com/user-attachments/assets/34953a56-da1a-4621-ae56-0f9a46357912)
@@ -22,7 +22,7 @@
 - 支持知识库
 - 支持知识图谱
 - ai对话支持自定义引用
-- 对接平台支持OpenAi，智谱，阿里，百度，ollama，本地gguf
+- 对接平台支持OpenAi，谷歌Gemini，智谱，阿里，百度，ollama，本地gguf
 - 支持本地gguf的量化模型
 - 自定义对话历史
 - 保存时经过ai自动生成对话摘要
@@ -37,6 +37,15 @@
 - 测试版
 - 修改拆书库，把名称，标签，备注，行动线，原文描写，少量描写，人物性格画像，整合成思维导图字符串
 - 优化ai小说提示词，免费的国内平台api目前效果不太好
+- ## 2024-11-21
+- 测试版
+- 对接平台优化谷歌Gemini
+- 注意OpenAi地址末尾，不要有"/"
+- 智谱api，OpenAi	https://open.bigmodel.cn/api/paas/v4	glm-4-flash,glm-4-long,glm-4
+- 谷歌Gemini，OpenAi	https://generativelanguage.googleapis.com/v1beta/openai	gemini-1.5-flash,gemini-1.5-pro
+- ![image](https://github.com/user-attachments/assets/c1ae7481-48d1-4b50-b788-79c711cbc99e)
+
+
 
 # 实验AI
 
