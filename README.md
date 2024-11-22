@@ -1,6 +1,7 @@
 # 多样智能ai知识库（ai写作功能已添加）
 - （测试版下载地址，**最新版请关注公众号，发送"ai"**）
 - https://www.123684.com/s/j6nRVv-cPY7H?提取码:fydy
+- ![image](https://github.com/user-attachments/assets/e383dba3-6fec-4458-89bb-4fe0dba5686e)
 - ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
 - ![image](https://github.com/user-attachments/assets/34953a56-da1a-4621-ae56-0f9a46357912)
 - ![image](https://github.com/user-attachments/assets/a2b32a50-ba97-4e13-b158-132240179e99)
@@ -37,7 +38,7 @@
 - 测试版
 - 修改拆书库，把名称，标签，备注，行动线，原文描写，少量描写，人物性格画像，整合成思维导图字符串
 - 优化ai小说提示词，免费的国内平台api目前效果不太好
-- ## 2024-11-21
+- ## 2024-11-22
 - 测试版
 - 对接平台优化谷歌Gemini
 - 注意OpenAi地址末尾，不要有"/"
