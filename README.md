@@ -47,6 +47,14 @@
 - ![image](https://github.com/user-attachments/assets/c1ae7481-48d1-4b50-b788-79c711cbc99e)
 
 
+# 提供key的AI平台，目前免费模型很多
+- https://cloud.siliconflow.cn/i/p9c3euLv
+- 注册获取2000万免费token
+- 在多样智能页面，配置时api的地址，https://api.siliconflow.cn/v1
+- ![image](https://github.com/user-attachments/assets/69894b65-46b0-4845-bed4-36d494733956)
+
+
+
 
 # 实验AI
 
