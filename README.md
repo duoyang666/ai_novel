@@ -1,6 +1,6 @@
 # 多样智能ai知识库（ai写作功能已添加）
 - （测试版下载地址，**最新版请关注公众号，发送"ai"**）
-- https://www.123684.com/s/j6nRVv-cPY7H?提取码:fydy
+- https://www.123684.com/s/j6nRVv-VWY7H?提取码:fydy
 - 扩写提示词在公开群里，如果有人提供很好的提示词，我也会加到程序中
 - ![image](https://github.com/user-attachments/assets/e383dba3-6fec-4458-89bb-4fe0dba5686e)
 - ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
