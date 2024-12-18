@@ -5,19 +5,17 @@
 - ![image](https://github.com/user-attachments/assets/e383dba3-6fec-4458-89bb-4fe0dba5686e)
 - ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
 - ![image](https://github.com/user-attachments/assets/34953a56-da1a-4621-ae56-0f9a46357912)
-- ![image](https://github.com/user-attachments/assets/a2b32a50-ba97-4e13-b158-132240179e99)
-- ![image](https://github.com/user-attachments/assets/1d84b611-5a64-4a41-bbfd-71f5fd79944c)
-- ![image](https://github.com/user-attachments/assets/208c343a-a0a7-4ca3-9fd5-f3fbe5b94ad7)
-- ![image](https://github.com/user-attachments/assets/910d756f-9241-40b7-b3f9-b2e80c44f782)
+- ![image](https://github.com/user-attachments/assets/a2dd6ab9-87ba-4757-a518-f90b5a982652)
+- ![image](https://github.com/user-attachments/assets/3b30c1fe-4699-4cf0-8648-f0a77d89ec96)
+- ![image](https://github.com/user-attachments/assets/63a95a5f-70d9-4ba1-8a27-07e3f14adf8f)
+- ![image](https://github.com/user-attachments/assets/eec0acf0-da35-4219-8c04-e143ceef95e3)
+- ![image](https://github.com/user-attachments/assets/53c02df8-2aef-4913-8e87-1f9e27fb96f9)
+- ![image](https://github.com/user-attachments/assets/c25afc9b-ddfc-4dd4-9f45-c5367349cee6)
 - ![image](https://github.com/user-attachments/assets/3b19c078-19c1-4688-afbb-765c23f4facd)
 - ![image](https://github.com/user-attachments/assets/79702b45-f22d-47ce-9058-f2a23bf0bc71)
 - ![image](https://github.com/user-attachments/assets/5b190fab-0eb6-47f1-9180-dd93b02fe43b)
 - ![image](https://github.com/user-attachments/assets/3f045537-065e-4e6e-aa86-4fc927dc6d97)
-
-
-
-
-
+- ![image](https://github.com/user-attachments/assets/69e2295e-f615-4cd1-9a4b-411e702a2924)
 
 
 # 多样智能 升级日志
