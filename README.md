@@ -1,4 +1,4 @@
-# 多样智能ai知识库（ai写作功能已添加）
+# 多样智能ai知识库（ai写作，识图功能已添加）
 - （测试版下载地址，**最新版请关注公众号，发送"ai"**）
 - **先暂停公布下载链接，之后版本等通知**
 - 扩写提示词在公开群里，如果有人提供很好的提示词，我也会加到程序中
@@ -48,6 +48,17 @@
 - 智谱api，OpenAi	https://open.bigmodel.cn/api/paas/v4	glm-4-flash,glm-4-long,glm-4
 - 谷歌Gemini，OpenAi	https://generativelanguage.googleapis.com/v1beta/openai	gemini-1.5-flash,gemini-1.5-pro
 - ![image](https://github.com/user-attachments/assets/c1ae7481-48d1-4b50-b788-79c711cbc99e)
+- ## 2024-12-18
+- 稳定版
+- 替换AOT编译，体积小于100MB
+- 各种优化，重做，知识图谱支持编辑节点，可重复解析
+- 有问题，可以先看下问题汇总，https://mp.weixin.qq.com/s/IhZ_TDZ5wV6XIfSbNl69NQ
+- 识图功能，https://mp.weixin.qq.com/s/M87_pZtWO8PbSpTdIV2GzA
+- 多样智能运行小技巧--启动报错怎么办，https://mp.weixin.qq.com/s/fEFJiHGlArqj1mf2uXeLIQ
+- 多样智能运行小技巧--添加AI平台，本地模型，量化模型，https://mp.weixin.qq.com/s/v5o7m-00csVcfjUQZ9bk7g
+- 多样智能运行小技巧--AI对话中使用知识库，或知识图谱，https://mp.weixin.qq.com/s/xUf4-vwpLRjt_Y9FXkMOmw
+- 多样智能运行小技巧--小说人物库，小说拆书库，https://mp.weixin.qq.com/s/087eITdA49vT4agqaszLdg
+- 多样智能运行小技巧--创作库 和 联系方式，https://mp.weixin.qq.com/s/oJAa1DEz3vb_xErk3lPZhg
 
 
 # 提供key的AI平台，目前免费模型很多，有谷歌模型
