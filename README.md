@@ -1,6 +1,6 @@
 # 多样智能ai知识库（ai写作，识图功能已添加）
 - （测试版下载地址，**最新版请关注公众号，发送"ai"**）
-- **先暂停公布下载链接，之后版本等通知**
+- **暂停公开版下载，保留公众号下载**
 - 扩写提示词在公开群里，如果有人提供很好的提示词，我也会加到程序中
 - ![image](https://github.com/user-attachments/assets/e383dba3-6fec-4458-89bb-4fe0dba5686e)
 - ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
