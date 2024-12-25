@@ -3,6 +3,9 @@
 - **公开版下载，https://www.123684.com/s/j6nRVv-VeY7H?提取码:fydy**
 - 公开版问题：对接ai平台只智谱完美，其他平台对话有问题，**最新版会解决，公开版只供体验，短时间内不更新**
 - 扩写提示词在公开群里，如果有人提供很好的提示词，我也会加到程序中
+- 最新版包含更多提示词，使用技术手段，可以获取全部的系统提示词
+- https://mp.weixin.qq.com/s/kOQDvqeb4JvvT56X1Cu_LQ
+- ![image](https://github.com/user-attachments/assets/172e6899-3dbc-4666-b282-265235d5290e)
 - ![image](https://github.com/user-attachments/assets/e383dba3-6fec-4458-89bb-4fe0dba5686e)
 - ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
 - ![image](https://github.com/user-attachments/assets/34953a56-da1a-4621-ae56-0f9a46357912)
