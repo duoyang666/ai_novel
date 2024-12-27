@@ -1,8 +1,10 @@
 # 多样智能ai知识库（ai写作，识图功能已添加）
-- （**最新版请关注公众号，发送"ai"**）
+- （**最新版请关注公众号，https://mp.weixin.qq.com/s/kOQDvqeb4JvvT56X1Cu_LQ）
 - **公开版下载，https://www.123684.com/s/j6nRVv-VeY7H?提取码:fydy**
 - 公开版问题：对接ai平台只智谱完美，其他平台对话有问题，**最新版会解决，公开版只供体验，短时间内不更新**
 - 扩写提示词在公开群里，如果有人提供很好的提示词，我也会加到程序中
+- 最新版包含更多提示词（如图），使用技术手段，可以获取全部的系统提示词
+- ![image](https://github.com/user-attachments/assets/172e6899-3dbc-4666-b282-265235d5290e)
 - ![image](https://github.com/user-attachments/assets/e383dba3-6fec-4458-89bb-4fe0dba5686e)
 - ![image](https://github.com/user-attachments/assets/c0656379-7b10-43c2-9acd-cb718706ae87)
 - ![image](https://github.com/user-attachments/assets/34953a56-da1a-4621-ae56-0f9a46357912)
@@ -14,10 +16,8 @@
 - ![image](https://github.com/user-attachments/assets/eec0acf0-da35-4219-8c04-e143ceef95e3)
 - ![image](https://github.com/user-attachments/assets/53c02df8-2aef-4913-8e87-1f9e27fb96f9)
 - ![image](https://github.com/user-attachments/assets/c25afc9b-ddfc-4dd4-9f45-c5367349cee6)
-- ![image](https://github.com/user-attachments/assets/3b19c078-19c1-4688-afbb-765c23f4facd)
-- ![image](https://github.com/user-attachments/assets/79702b45-f22d-47ce-9058-f2a23bf0bc71)
-- ![image](https://github.com/user-attachments/assets/5b190fab-0eb6-47f1-9180-dd93b02fe43b)
-- ![image](https://github.com/user-attachments/assets/3f045537-065e-4e6e-aa86-4fc927dc6d97)
+- ![image](https://github.com/user-attachments/assets/f6a9f273-4a2c-4140-96d2-fa3fd634ef21)
+- ![image](https://github.com/user-attachments/assets/a532d625-1e81-45a7-a5e9-05a14f2a0abb)
 - ![image](https://github.com/user-attachments/assets/69e2295e-f615-4cd1-9a4b-411e702a2924)
 
 
@@ -50,7 +50,7 @@
 - 谷歌Gemini，OpenAi	https://generativelanguage.googleapis.com/v1beta/openai	gemini-1.5-flash,gemini-1.5-pro
 - ![image](https://github.com/user-attachments/assets/c1ae7481-48d1-4b50-b788-79c711cbc99e)
 - ## 2024-12-18
-- 稳定版
+- 公开版
 - 替换AOT编译，体积小于100MB
 - 各种优化，重做，知识图谱支持编辑节点，可重复解析
 - 有问题，可以先看下问题汇总，https://mp.weixin.qq.com/s/IhZ_TDZ5wV6XIfSbNl69NQ
@@ -60,6 +60,14 @@
 - 多样智能运行小技巧--AI对话中使用知识库，或知识图谱，https://mp.weixin.qq.com/s/xUf4-vwpLRjt_Y9FXkMOmw
 - 多样智能运行小技巧--小说人物库，小说拆书库，https://mp.weixin.qq.com/s/087eITdA49vT4agqaszLdg
 - 多样智能运行小技巧--创作库 和 联系方式，https://mp.weixin.qq.com/s/oJAa1DEz3vb_xErk3lPZhg
+- - ## 2024-12-25
+- 内测版
+- 替换AOT编译，体积小于100MB
+- 对接服务端，可以保存记忆，查看记忆
+- 捐赠版功能说明001，捐赠版和公开版区别，github免费模型预览，https://mp.weixin.qq.com/s/ic8PwyKzRd7l_n6S3HGpSw
+- 捐赠版功能说明002，拆书库添加导出，添加【-猫腻文风全局重写-】指令。https://mp.weixin.qq.com/s/QGKnJc2HBB_jpLiTVXa7iQ
+- 捐赠版功能说明003，以拆书库为引用，并使用AI更改原文，细纲生成功能，https://mp.weixin.qq.com/s/GTQtTMHgYrGj8zl-WNALfA
+- 捐赠版功能说明004，添加记忆功能，支持不同指令，扫描时可使用记忆。https://mp.weixin.qq.com/s/kOQDvqeb4JvvT56X1Cu_LQ
 
 
 # 提供key的AI平台，目前免费模型很多，有谷歌模型
