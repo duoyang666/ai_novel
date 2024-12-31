@@ -65,7 +65,7 @@
 - - ## 2024-12-25
 - 内测版
 - 替换AOT编译，体积小于100MB
-- 对接服务端，可以保存记忆，查看记忆
+- 对接服务端，可以保存记忆，查看记忆（**记忆保存在本地，非服务端，和普通网站不同，不会把你们的内容上传到服务器**）
 - 捐赠版功能说明001，捐赠版和公开版区别，github免费模型预览，https://mp.weixin.qq.com/s/ic8PwyKzRd7l_n6S3HGpSw
 - 捐赠版功能说明002，拆书库添加导出，添加【-猫腻文风全局重写-】指令。https://mp.weixin.qq.com/s/QGKnJc2HBB_jpLiTVXa7iQ
 - 捐赠版功能说明003，以拆书库为引用，并使用AI更改原文，细纲生成功能，https://mp.weixin.qq.com/s/GTQtTMHgYrGj8zl-WNALfA
