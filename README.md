@@ -55,6 +55,7 @@
 - 公开版
 - 替换AOT编译，体积小于100MB
 - 各种优化，重做，知识图谱支持编辑节点，可重复解析
+- 不支持拉取github的模型列表，谷歌模型注意网络，如果被谷歌封IP，也不能使用
 - 有问题，可以先看下问题汇总，https://mp.weixin.qq.com/s/IhZ_TDZ5wV6XIfSbNl69NQ
 - 识图功能，https://mp.weixin.qq.com/s/M87_pZtWO8PbSpTdIV2GzA
 - 多样智能运行小技巧--启动报错怎么办，https://mp.weixin.qq.com/s/fEFJiHGlArqj1mf2uXeLIQ
@@ -65,6 +66,7 @@
 - ## 2024-12-25
 - 内测版
 - 替换AOT编译，体积小于100MB
+- 支持拉取github的模型列表
 - 对接服务端，可以保存记忆，查看记忆（**记忆保存在本地，非服务端，和普通网站不同，不会把你们的内容上传到服务器**）
 - 捐赠版功能说明001，捐赠版和公开版区别，github免费模型预览，https://mp.weixin.qq.com/s/ic8PwyKzRd7l_n6S3HGpSw
 - 捐赠版功能说明002，拆书库添加导出，添加【-猫腻文风全局重写-】指令。https://mp.weixin.qq.com/s/QGKnJc2HBB_jpLiTVXa7iQ
