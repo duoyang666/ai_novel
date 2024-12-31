@@ -62,7 +62,7 @@
 - 多样智能运行小技巧--AI对话中使用知识库，或知识图谱，https://mp.weixin.qq.com/s/xUf4-vwpLRjt_Y9FXkMOmw
 - 多样智能运行小技巧--小说人物库，小说拆书库，https://mp.weixin.qq.com/s/087eITdA49vT4agqaszLdg
 - 多样智能运行小技巧--创作库 和 联系方式，https://mp.weixin.qq.com/s/oJAa1DEz3vb_xErk3lPZhg
-- - ## 2024-12-25
+- ## 2024-12-25
 - 内测版
 - 替换AOT编译，体积小于100MB
 - 对接服务端，可以保存记忆，查看记忆（**记忆保存在本地，非服务端，和普通网站不同，不会把你们的内容上传到服务器**）
@@ -70,6 +70,12 @@
 - 捐赠版功能说明002，拆书库添加导出，添加【-猫腻文风全局重写-】指令。https://mp.weixin.qq.com/s/QGKnJc2HBB_jpLiTVXa7iQ
 - 捐赠版功能说明003，以拆书库为引用，并使用AI更改原文，细纲生成功能，https://mp.weixin.qq.com/s/GTQtTMHgYrGj8zl-WNALfA
 - 捐赠版功能说明004，添加记忆功能，支持不同指令，扫描时可使用记忆。https://mp.weixin.qq.com/s/kOQDvqeb4JvvT56X1Cu_LQ
+- ## 2024-12-30
+- 内测版
+- 替换AOT编译，体积小于100MB
+- 添加自定义提示词，可以用自己的提示词来**扩写，润写（提示词保存在本地，非服务端，和普通网站不同，不会把你们的内容上传到服务器）**
+
+
 
 
 # 提供key的AI平台，目前免费模型很多，有谷歌模型
