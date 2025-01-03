@@ -39,8 +39,7 @@
 - 对接平台优化谷歌Gemini
 - 注意OpenAi地址末尾，不要有"/"
 - 智谱api，OpenAi	https://open.bigmodel.cn/api/paas/v4	glm-4-flash,glm-4-long,glm-4
-- 谷歌Gemini，OpenAi	https://generativelanguage.googleapis.com/v1beta/openai	gemini-1.5-flash,gemini-1.5-pro
-- ![image](https://github.com/user-attachments/assets/c1ae7481-48d1-4b50-b788-79c711cbc99e)
+- 谷歌Gemini，建议使用 cloudflare 或 huggingface 代理。
 - ## 2024-11-21
 - 测试版
 - 修改拆书库，把名称，标签，备注，行动线，原文描写，少量描写，人物性格画像，整合成思维导图字符串
