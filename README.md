@@ -7,6 +7,7 @@
 - **测试为主，不注册账号，会自动关闭**
 - **发现一个可用无限使用的gpt4o-mini的api，不稳定，但可用，暂不公开**
 - **“特殊平台”，支持免费的Key，不稳定，需要联系开发者提供，目前只提供给少数人**
+- 飞书文档教程，https://fcnwe3cpps5e.feishu.cn/wiki/QgH7wA9uniOfFFkiAuocMfI2nsC?from=from_copylink
 - 
 - 扩写提示词在公开群里，如果有人提供很好的提示词，我也会加到程序中
 - 使用技术手段，可以获取全部的系统提示词
