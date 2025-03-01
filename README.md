@@ -1,4 +1,7 @@
-# 多样智能ai知识库（ai写作，识图功能已添加）
+# ai群聊核心代码已开源
+- group文件夹
+
+# 多样智能ai知识库（ai写作，ai群聊已添加）
 - （**最新版请关注公众号，https://mp.weixin.qq.com/s/kOQDvqeb4JvvT56X1Cu_LQ）
 - **公开版下载，https://www.123684.com/s/j6nRVv-VeY7H?提取码:fydy**
 - 公开版问题：对接ai平台只智谱完美，其他平台对话有问题，**最新版会解决，公开版只供体验，短时间内不更新**
