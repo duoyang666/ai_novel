@@ -3,17 +3,17 @@
 - **公开版下载，https://www.123684.com/s/j6nRVv-VeY7H?提取码:fydy**
 - 公开版问题：对接ai平台只智谱完美，其他平台对话有问题，**最新版会解决，公开版只供体验，短时间内不更新**
 - 公开版不支持拉取github的模型列表，谷歌模型注意网络，如果被谷歌封IP，也不能使用。
-- **公测版下载，https://www.123684.com/s/j6nRVv-9KG7H**
+- **公测版下载，https://www.123912.com/s/j6nRVv-tqG7H**
 - **测试为主，不注册账号，会自动关闭**
 - **发现一个可用无限使用的gpt4o-mini的api，不稳定，但可用，暂不公开**
 - **“特殊平台”，支持免费的Key，不稳定，需要联系开发者提供，目前只提供给少数人**
-- 飞书文档教程，https://fcnwe3cpps5e.feishu.cn/wiki/QgH7wA9uniOfFFkiAuocMfI2nsC?from=from_copylink
+- 飞书文档教程，https://fcnwe3cpps5e.feishu.cn/wiki/QgH7wA9uniOfFFkiAuocMfI2nsC
 - 
 - 扩写提示词在公开群里，如果有人提供很好的提示词，我也会加到程序中
 - 使用技术手段，可以获取全部的系统提示词
 
 # 多样智能 升级日志
-- ## 预发布
+- ## 2025-02-19
 - 公测版
 - 替换AOT编译，体积小于100MB
 - 导入支持全部文本格式，并支持自定义分段符号
