@@ -172,3 +172,7 @@ vector/862KB
 vector/2.65MB
 /.vs/ai_novel/FileContentIndex
 /.vs
+/group/.vs
+/group/bin/Debug/net8.0
+/group/bin/Release/net8.0
+/group/obj
