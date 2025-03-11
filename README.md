@@ -6,12 +6,14 @@
 - **公开版下载，https://www.123684.com/s/j6nRVv-VeY7H?提取码:fydy**
 - 公开版问题：对接ai平台只智谱完美，其他平台对话有问题，**最新版会解决，公开版只供体验，短时间内不更新**
 - 公开版不支持拉取github的模型列表，谷歌模型注意网络，如果被谷歌封IP，也不能使用。
-- **公测版0306下载，https://www.123912.com/s/j6nRVv-1BP7H**
-- **测试为主，不注册账号，会自动关闭**
+- **测试为主，不注册账号，会自动关闭，添加客户端验证（遇见客户端非法问题，请更新最新版本）**
 - 飞书文档教程，https://fcnwe3cpps5e.feishu.cn/wiki/QgH7wA9uniOfFFkiAuocMfI2nsC
 - 
-- 扩写提示词在公开群里，如果有人提供很好的提示词，我也会加到程序中
-- 使用技术手段，可以获取全部的系统提示词
+- 自动升级程序下载，https://github.com/duoyang666/ai_novel/releases/download/pub/upgrade.zip
+- 自动升级程序下载，https://www.123912.com/s/j6nRVv-vgP7H
+- 本地软件升级指导，在线升级步骤，https://fcnwe3cpps5e.feishu.cn/wiki/RypOwZjswihjtdkWjfJc7QVOnJc
+- 公测版下载（推荐下载，此版本为20250306），https://www.123912.com/s/j6nRVv-1BP7H
+- 最新公测版直接下载，https://github.com/duoyang666/ai_novel/releases/download/pub/duoyang.ai.zip
 
 # 多样智能 升级日志
 - ## 2025-03-06
