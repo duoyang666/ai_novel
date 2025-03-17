@@ -12,10 +12,15 @@
 - 自动升级程序下载，https://github.com/duoyang666/ai_novel/releases/download/pub/upgrade.zip
 - 自动升级程序下载，https://www.123912.com/s/j6nRVv-vgP7H
 - 本地软件升级指导，在线升级步骤，https://fcnwe3cpps5e.feishu.cn/wiki/RypOwZjswihjtdkWjfJc7QVOnJc
-- 公测版下载（推荐下载，此版本为20250306），https://www.123912.com/s/j6nRVv-1BP7H
+- 公测版下载（此版本为20250316），https://www.123912.com/s/j6nRVv-KWP7H
 - 最新公测版直接下载，https://github.com/duoyang666/ai_novel/releases/download/pub/duoyang.ai.zip
 
 # 多样智能 升级日志
+- ## 2025-03-16
+- 公测版
+- 替换AOT编译，体积小于100MB
+- 拆分菜单，小说创作，添加拆解章纲，大纲，爽点，支持拆书库，支持自定义范围
+- 优化若干问题
 - ## 2025-03-06
 - 公测版
 - 替换AOT编译，体积小于100MB
