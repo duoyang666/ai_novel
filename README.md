@@ -16,7 +16,7 @@
 - 最新公测版直接下载，https://github.com/duoyang666/ai_novel/releases/download/pub/duoyang.ai.zip
 
 # 多样智能 升级日志
-- 2025-03-22
+- ## 2025-03-22
 - 公测版
 - 替换AOT编译，体积小于100MB
 - 小说创作，添加设定优化，可以默认引用到知识标签
