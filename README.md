@@ -12,10 +12,20 @@
 - 自动升级程序下载，https://github.com/duoyang666/ai_novel/releases/download/pub/upgrade.zip
 - 自动升级程序下载，https://www.123912.com/s/j6nRVv-vgP7H
 - 本地软件升级指导，在线升级步骤，https://fcnwe3cpps5e.feishu.cn/wiki/RypOwZjswihjtdkWjfJc7QVOnJc
-- 公测版下载（此版本为20250412），https://www.123912.com/s/j6nRVv-IHX7H
 - 最新公测版直接下载，https://github.com/duoyang666/ai_novel/releases/download/pub/duoyang.ai.zip
 
 # 多样智能 升级日志
+- ## 2025-04-23
+- 公测版
+- AI对话支持多文本文件上传，优化引用知识库和知识图谱
+- 知识库等，优化查询操作，自定义解析功能
+- 知识图谱，人物库，添加合并节点，删除节点
+- 完全开放特殊平台，竟然到现在还能白嫖cursor
+- 添加自定义设定列表，支持分享人物，世界观，大纲等设定
+- 优化自定义指令列表，支持修改自己已经上传的指令
+- 添加签到机制，非捐赠会员也能签到
+- 添加邀请分成机制，目前按2成分成
+- 优化若干问题
 - ## 2025-04-12
 - 公测版
 - 添加图片库，可以批量自定义解析图片
