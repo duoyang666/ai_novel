@@ -3,9 +3,8 @@
 
 # 多样智能ai知识库（ai写作，ai群聊已添加）
 - （**最新版请关注公众号，https://mp.weixin.qq.com/s/kOQDvqeb4JvvT56X1Cu_LQ）
-- **公开版下载，https://www.123684.com/s/j6nRVv-VeY7H?提取码:fydy**
-- 公开版问题：对接ai平台只智谱完美，其他平台对话有问题，**最新版会解决，公开版只供体验，短时间内不更新**
-- 公开版不支持拉取github的模型列表，谷歌模型注意网络，如果被谷歌封IP，也不能使用。
+- **公开版下载，https://www.123912.com/s/j6nRVv-EpX7H**
+
 - **测试为主，不注册账号，会自动关闭，添加客户端验证（遇见客户端非法问题，请更新最新版本）**
 - 飞书文档教程，https://fcnwe3cpps5e.feishu.cn/wiki/QgH7wA9uniOfFFkiAuocMfI2nsC
 - 
@@ -15,6 +14,16 @@
 - 最新公测版直接下载，https://github.com/duoyang666/ai_novel/releases/download/pub/duoyang.ai.zip
 
 # 多样智能 升级日志
+- ## 2025-04-28
+- 公开版
+- 完全的本地
+- 完全的免费
+- 不需要对接我的服务端
+- 开放特殊平台
+- 开放小说创作功能
+- 开放群聊对话
+- 开放知识库自定义解析
+- 去除会员功能
 - ## 2025-04-23
 - 公测版
 - AI对话支持多文本文件上传，优化引用知识库和知识图谱
