@@ -2,7 +2,6 @@
 - group文件夹
 
 # 多样智能ai知识库（ai写作，ai群聊已添加）
-- （**最新版请关注公众号，https://mp.weixin.qq.com/s/kOQDvqeb4JvvT56X1Cu_LQ）
 - **公开版下载，https://www.123912.com/s/j6nRVv-EpX7H**
 
 - **测试为主，不注册账号，会自动关闭，添加客户端验证（遇见客户端非法问题，请更新最新版本）**
