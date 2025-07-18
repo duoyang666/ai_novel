@@ -203,7 +203,8 @@
 - 注册获取2000万免费token
 - 在多样智能页面，配置时api的地址，https://api.siliconflow.cn/v1
 - ![image](https://github.com/user-attachments/assets/69894b65-46b0-4845-bed4-36d494733956)
-
+- 本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
+- [亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne](https://edgeone.ai/zh?from=github)
 
 
 
